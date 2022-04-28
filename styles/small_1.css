@@ -1,0 +1,47 @@
+body {
+    background-image: url(../img/background_5.jpg);
+    background-repeat: no-repeat;
+}
+.pic1 {
+    width: 275px;
+    height: 275px;
+    position: absolute;
+    left: 97px;
+    top: 53px;
+}
+.arrow_back {
+    left: 20px;
+}
+.kurs {
+    font-size: 22px;
+    position: absolute;
+    left: 100px;
+    top: 325px;
+}
+.text {
+    font-size: 14px;
+    position: absolute;
+    left: 100px;
+    top: 400px;
+}
+.price {
+    font-size: 20px;
+    position: absolute;
+    left: 100px;
+    top: 830px;
+}
+.vid {
+    width: 400px;
+    height: 220px;
+    left: 35px;
+    top: 950px;
+}
+.send button {
+    width: 275px;
+    height: 55px;
+}
+.send {
+    position: absolute;
+    left: 100px;
+    top: 1400px;
+}

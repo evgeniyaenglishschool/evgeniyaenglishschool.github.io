@@ -1,0 +1,71 @@
+body {
+    background-image: url(../img/background_2.jpg);
+    font-family: IBM Plex Serif, Arial, Helvetica, sans-serif;
+}
+.dip_mable {
+    position: absolute;
+    left: 230px;
+    top: 90px;
+}
+.grav {
+    font-size: 20px;
+}
+.text {
+    font-size: 16px;
+}
+.text_1 {
+    width: auto;
+    height: auto;
+    position: absolute;
+    left: 761px;
+    top: 26px;
+}
+.text_2 {
+    width: auto;
+    height: auto;
+    position: absolute;
+    left: 1275px;
+    top: 75px;
+}
+.prices {
+    position: absolute;
+    left: 1250px;
+    top: 310px;
+}
+.butt_1 {
+    position: absolute;
+    left: 1250px;
+    top: 424px;
+}
+.butt_2 {
+    position: absolute;
+    left: 1250px;
+    top: 530px;
+}
+.butt_3 {
+    position: absolute;
+    left: 1250px;
+    top: 636px;
+}
+.butt_1 a, .butt_2 a, .butt_3 a {
+    text-decoration: none;
+    text-align: center;
+    color: #000;
+    display: block;
+    background-color: #d86700;
+    width: 400px;
+    height: 50px;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+.butt_1 a:hover, .butt_2 a:hover, .butt_3 a:hover {
+    border: 1px solid black;
+}
+h2 {
+    font-size: 16px;
+}
+.arrow_back {
+    position: absolute;
+    left: 100px;
+    top: 25px;
+}

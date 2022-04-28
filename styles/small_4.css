@@ -1,0 +1,31 @@
+body {
+    background-image: url(../img/background_5.jpg);
+}
+.arrow_back {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.nm_ilnd {
+    width: 275px;
+    height: 275px;
+    position: absolute;
+    left: 75px;
+    top: 100px;
+}
+.text {
+    width: 360px;
+    height: 670px;
+    position: absolute;
+    left: 40px;
+    top: 400px;
+}
+.feedback {
+    position: absolute;
+    left: 30px;
+    top: 1400px;
+}
+.feedback a button {
+    width: 350px;
+    height: 74px;
+}

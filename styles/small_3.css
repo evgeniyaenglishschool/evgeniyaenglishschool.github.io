@@ -1,0 +1,192 @@
+body {
+    background-image: url(../img/background_9.jpg);
+}
+.arrow_back {
+    left: 45px;
+    top: 10px;
+}
+.br_hr {
+    width: 275px;
+    height: 275px;
+    left: 70px;
+    top: 38px;
+}
+.kf_pnd {
+    width: 275px;
+    height: 275px;
+    left: 70px;
+    top: 700px;
+}
+.snk {
+    width: 275px;
+    height: 275px;
+    left: 70px;
+    top: 1400px;
+}
+.shrlk {
+    width: 275px;
+    height: 275px;
+    left: 70px;
+    top: 2150px;
+}
+.njg {
+    width: 275px;
+    height: 275px;
+    position: absolute;
+    left: 70px;
+    top: 3050px;
+}
+.hr_ptr {
+    width: 275px;
+    height: 275px;
+    position: absolute;
+    left: 70px;
+    top: 3650px;
+}
+.frnds {
+    width: 275px;
+    height: 275px;
+    position: absolute;
+    left: 70px;
+    top: 4250px;
+}
+.mix1 {
+    width: 275px;
+    height: 275px;
+    position: absolute;
+    left: 70px;
+    top: 4900px;
+}
+.mix2 {
+    width: 275px;
+    height: 275px;
+    position: absolute;
+    left: 70px;
+    top: 5600px;
+}
+.br_hr_text {
+    font-size: 15px;
+    width: 400px;
+    height: 419px;
+    left: 5px;
+    top: 320px;
+    text-align: center;
+}
+.kf_pnd_text {
+    font-size: 15px;
+    width: 400px;
+    height: 471px;
+    left: 5px;
+    top: 980px;
+    text-align: center;
+}
+.snk_text {
+    font-size: 15px;
+    width: 400px;
+    height: 520px;
+    left: 5px;
+    top: 1700px;
+    text-align: center;
+}
+.shrlk_text {
+    font-size: 14px;
+    width: 356px;
+    height: 716px;
+    left: 25px;
+    top: 2450px;
+    text-align: center;
+}
+.njg_text {
+    font-size: 18px;
+    width: 356px;
+    height: 716px;
+    left: 25px;
+    top: 3330px;
+    text-align: center;
+}
+.hr_ptr_text {
+    font-size: 20px;
+    width: 340px;
+    height: 191px;
+    position: absolute;
+    left: 40px;
+    top: 3950px;
+    text-align: center;
+}
+.frnds_text {
+    font-size: 20px;
+    width: 334px;
+    height: 220px;
+    position: absolute;
+    left: 40px;
+    top: 4550px;
+    text-align: center;
+}
+.mix1_text {
+    font-size: 16px;
+    width: 412px;
+    height: 367px;
+    position: absolute;
+    left: -5px;
+    top: 5175px;
+    text-align: center;
+}
+.mix2_text {
+    font-size: 18px;
+    width: 440px;
+    height: 210px;
+    position: absolute;
+    left: -17px;
+    top: 5900px;
+    text-align: center;
+}
+.butt_1 {
+    left: 30px;
+    top: 575px;
+}
+.butt_2 {
+    left: 30px;
+    top: 1275px;
+}
+.butt_3 {
+    left: 30px;
+    top: 2050px;
+}
+.butt_4 {
+    left: 30px;
+    top: 2950px;
+}
+.butt_5 {
+    position: absolute;
+    left: 30px;
+    top: 3550px;
+}
+.butt_6 {
+    position: absolute;
+    left: 30px;
+    top: 4175px;
+}
+.butt_7 {
+    position: absolute;
+    left: 30px;
+    top: 4800px;
+}
+.butt_8 {
+    position: absolute;
+    left: 30px;
+    top: 5500px;
+}
+.butt_9 {
+    position: absolute;
+    left: 30px;
+    top: 6150px;
+}
+.butt_1 a button, .butt_2 a button, .butt_3 a button, .butt_4 a button, .butt_5 a button, .butt_6 a button, .butt_7 a button, .butt_8 a button, .butt_9 a button {
+    width: 350px;
+    height: 50px;
+}
+.butt_1 a button:hover, .butt_2 a button:hover, .butt_3 a button:hover, .butt_4 a button:hover, .butt_5 a button:hover, .butt_6 a button:hover, .butt_7 a button:hover, .butt_8 a button:hover, .butt_9 a button:hover {
+    border: 1px solid black;
+}
+
+

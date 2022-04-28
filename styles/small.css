@@ -1,0 +1,76 @@
+body {
+    background-image: url(../img/background_4.jpg);
+    background-repeat: no-repeat;
+}
+.evgeniya {
+    width: 355px;
+    height: 200px;
+    position: absolute;
+    left: 52px;
+    top: 35px;
+}
+.instagram {
+    font-size: 12px;
+    position: absolute;
+    left: 150px;
+    top: 225px;
+}
+.line {
+    width: 335px;
+    height: 196px;
+    position: absolute;
+    left: 0px;
+    top: 195px;
+}
+.line2 {
+    width: 335px;
+    height: 196px;
+    position: absolute;
+    left: 133px;
+    top: 195px;
+}
+.hello {
+    font-size: 20px;
+    position: absolute;
+    left: 140px;
+    top: -60px;
+}
+.text {
+    text-align: center;
+    font-size: 11px;
+    width: 418px;
+    height: 105px;
+    position: absolute;
+    left: 14px;
+    top: 375px;
+}
+.camera {
+    width: 468px;
+    height: 291px;
+    position: absolute;
+    left: -10px;
+    top: 430px;
+}
+.ccbilki a {
+    width: 236px;
+    height: 60px;
+}
+.ccbilki1 {
+    left: 107px;
+    top: 560px;
+}
+.ccbilki2 {
+    left: 107px;
+    top: 660px;
+}
+.ccbilki3 {
+    left: 107px;
+    top: 760px;
+}
+.ccbilki4 {
+    left: 107px;
+    top: 860px;
+}
+.ccbilki a:hover {
+    border: 1px solid black;
+}

@@ -1,0 +1,39 @@
+body {
+    background-image: url(../img/background_2.jpg);
+    font-family: IBM Plex Serif, Arial, Helvetica, sans-serif;
+}
+.arrow_back {
+    position: absolute;
+    left: 100px;
+    top: 25px;
+}
+.nm_ilnd {
+    width: 520px;
+    height: 520px;
+    position: absolute;
+    left: 122px;
+    top: 211px;
+}
+.text {
+    width: 856px;
+    height: 670px;
+    position: absolute;
+    left: 744px;
+    top: 110px;
+}
+.feedback {
+    position: absolute;
+    left: 744px;
+    top: 702px;
+}
+.feedback a button {
+    border: none;
+    background-color: #d86700;
+    width: 850px;
+    height: 74px;
+    border-radius: 20px;
+    padding-bottom: 10px;
+}
+.feedback a button:hover {
+    border: 1px solid black;
+}

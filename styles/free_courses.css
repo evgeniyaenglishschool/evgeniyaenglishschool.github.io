@@ -1,0 +1,203 @@
+body {
+    background-image: url(../img/background_8.jpg);
+    font-family: IBM Plex Serif, Arial, Helvetica, sans-serif;
+}
+.br_hr {
+    width: 457px;
+    height: 457px;
+    position: absolute;
+    left: 337px;
+    top: 52px;
+}
+.kf_pnd {
+    width: 457px;
+    height: 457px;
+    position: absolute;
+    left: 337px;
+    top: 540px;
+}
+.snk {
+    width: 457px;
+    height: 457px;
+    position: absolute;
+    left: 337px;
+    top: 1126px;
+}
+.shrlk {
+    width: 457px;
+    height: 457px;
+    position: absolute;
+    left: 337px;
+    top: 1625px;
+}
+.njg {
+    width: 457px;
+    height: 457px;
+    position: absolute;
+    left: 337px;
+    top: 2192px;
+}
+.hr_ptr {
+    width: 457px;
+    height: 457px;
+    position: absolute;
+    left: 337px;
+    top: 2678px;
+}
+.frnds {
+    width: 457px;
+    height: 457px;
+    position: absolute;
+    left: 337px;
+    top: 3294px;
+}
+.mix1 {
+    width: 457px;
+    height: 457px;
+    position: absolute;
+    left: 337px;
+    top: 3780px;
+}
+.mix2 {
+    width: 457px;
+    height: 457px;
+    position: absolute;
+    left: 337px;
+    top: 4403px;
+}
+.br_hr_text {
+    font-size: 20px;
+    width: 618px;
+    height: 303px;
+    position: absolute;
+    left: 884px;
+    top: 77px;
+}
+.kf_pnd_text {
+    font-size: 20px;
+    width: 650px;
+    height: 340px;
+    position: absolute;
+    left: 884px;
+    top: 540px;
+}
+.snk_text {
+    font-size: 20px;
+    width: 907px;
+    height: 376px;
+    position: absolute;
+    left: 884px;
+    top: 1113px;
+}
+.shrlk_text {
+    font-size: 16px;
+    width: 883px;
+    height: 410px;
+    position: absolute;
+    left: 884px;
+    top: 1623px;
+}
+.njg_text {
+    font-size: 20px;
+    width: 351px;
+    height: 124px;
+    position: absolute;
+    left: 884px;
+    top: 2300px;
+}
+.hr_ptr_text {
+    font-size: 20px;
+    width: 340px;
+    height: 191px;
+    position: absolute;
+    left: 884px;
+    top: 2760px;
+}
+.frnds_text {
+    font-size: 20px;
+    width: 334px;
+    height: 220px;
+    position: absolute;
+    left: 884px;
+    top: 3360px;
+}
+.mix1_text {
+    font-size: 16px;
+    width: 412px;
+    height: 367px;
+    position: absolute;
+    left: 884px;
+    top: 3817px;
+}
+.mix2_text {
+    font-size: 20px;
+    width: 440px;
+    height: 210px;
+    position: absolute;
+    left: 884px;
+    top: 4500px;
+}
+.level {
+    text-decoration: underline;
+}
+.butt_1 {
+    position: absolute;
+    left: 884px;
+    top: 415px;
+}
+.butt_2 {
+    position: absolute;
+    left: 884px;
+    top: 898px;
+}
+.butt_3 {
+    position: absolute;
+    left: 884px;
+    top: 1489px;
+}
+.butt_4 {
+    position: absolute;
+    left: 884px;
+    top: 2033px;
+}
+.butt_5 {
+    position: absolute;
+    left: 884px;
+    top: 2556px;
+}
+.butt_6 {
+    position: absolute;
+    left: 884px;
+    top: 3041px;
+}
+.butt_7 {
+    position: absolute;
+    left: 884px;
+    top: 3657px;
+}
+.butt_8 {
+    position: absolute;
+    left: 884px;
+    top: 4143px;
+}
+.butt_9 {
+    position: absolute;
+    left: 884px;
+    top: 4766px;
+}
+.arrow_back {
+    position: absolute;
+    left: 175px;
+    top: 47px;
+}
+.butt_1 a button, .butt_2 a button, .butt_3 a button, .butt_4 a button, .butt_5 a button, .butt_6 a button, .butt_7 a button, .butt_8 a button, .butt_9 a button {
+    border: none;
+    background-color: #d86700;
+    width: 583px;
+    height: 94px;
+    border-radius: 20px;
+    padding-bottom: 10px;
+}
+.butt_1 a button:hover, .butt_2 a button:hover, .butt_3 a button:hover, .butt_4 a button:hover, .butt_5 a button:hover, .butt_6 a button:hover, .butt_7 a button:hover, .butt_8 a button:hover, .butt_9 a button:hover {
+    border: 1px solid black;
+}

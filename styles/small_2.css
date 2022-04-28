@@ -1,0 +1,49 @@
+body {
+    background-image: url(../img/background_6.jpg);
+    background-repeat: no-repeat;
+}
+.arrow_back {
+    left: 30px;
+}
+.dip_mable {
+    left: 96px;
+    top: 56px;
+}
+.text {
+    text-align: center;
+    font-size: 14px;
+}
+.text_1 {
+    width: 448px;
+    height: 755px;
+    left: 10px;
+    top: 362px;
+}
+.text_2 {
+    width: 345px;
+    height: 224px;
+    left: 61px;
+    top: 1030px;
+}
+.prices {
+    width: 351px;
+    height: 108px;
+    left: 58px;
+    top: 1250px;
+}
+.butt_1 a, .butt_2 a, .butt_3 a {
+    width: 325px;
+    height: 50px;
+}
+.butt_1 {
+    left: 71px;
+    top: 1360px;
+}
+.butt_2 {
+    left: 71px;
+    top: 1440px;
+}
+.butt_3 {
+    left: 71px;
+    top: 1520px;
+}

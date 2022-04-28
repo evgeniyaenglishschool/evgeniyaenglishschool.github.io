@@ -1,0 +1,88 @@
+body {
+    background-image: url(../img/background_2.jpg);
+    font-family: IBM Plex Serif, Arial, Helvetica, sans-serif;
+}
+.evgeniya {
+    width: 495px;
+    height: 279px;
+    position: absolute;
+    left: 696px;
+    top: -30px;
+}
+.instagram {
+    font-size: 18px;
+    color: #884405;
+    position: absolute;
+    left: 833px;
+    top: 231px;
+}
+.line {
+    width: 832px;
+    height: 468px;
+    position: absolute;
+    left: 382px;
+    top: 72px;
+}
+.line2 {
+    width: 832px;
+    height: 468px;
+    position: absolute;
+    left: 715px;
+    top: 72px;
+}
+.text {
+    text-align: center;
+    font-size: 18px;
+    width: 702px;
+    height: 177px;
+    position: absolute;
+    left: 609px;
+    top: 350px;
+}
+.camera {
+    width: 865px;
+    height: 487px;
+    position: absolute;
+    left: 528px;
+    top: 475px;
+}
+
+.ccbilki a {
+    text-decoration: none;
+    text-align: center;
+    color: #000;
+    display: block;
+    background-color: #d86700;
+    width: 500px;
+    height: 50px;
+    margin-bottom: 12px;
+    border-radius: 20px;
+    padding-top: 25px;
+}
+.ccbilki1 {
+    position: absolute;
+    left: 700px;
+    top: 690px;
+
+}
+.ccbilki2 {
+    position: absolute;
+    left: 700px;
+    top: 790px;
+
+}
+.ccbilki3 {
+    position: absolute;
+    left: 700px;
+    top: 890px;
+
+}
+.ccbilki4 {
+    position: absolute;
+    left: 700px;
+    top: 990px;
+
+}
+.ccbilki a:hover {
+    border: 1px solid black;
+}

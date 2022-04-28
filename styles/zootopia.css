@@ -1,0 +1,58 @@
+body {
+    background-image: url(../img/background_2.jpg);
+    font-family: IBM Plex Serif, Arial, Helvetica, sans-serif;
+}
+.pic1 {
+    position: absolute;
+    left: 12px;
+    top: 116px;
+    width: 656px;
+    height: 652px;
+}
+.kurs {
+    font-size: 30px;
+    left: 691px;
+    top: 116px;
+    position: absolute;
+}
+.text {
+    font-size: 18px;
+    left: 691px;
+    top: 175px;
+    position: absolute;
+}
+.price {
+    font-size: 22px;
+    left: 691px;
+    top: 550px;
+    position: absolute;
+}
+.vid {
+    position: absolute;
+    left: 1230px;
+    top: 116px;
+    width: 656px;
+    height: 652px;
+}
+
+.send {
+    position: absolute;
+    left: 690px;
+    top: 660px;
+}
+.send button {
+    border: none;
+    background-color: #d86700;
+    width: 522px;
+    height: 70px;
+    border-radius: 20px;
+    padding-bottom: 10px;
+}
+.send button:hover {
+    border: 1px solid black;
+}
+.arrow_back {
+    position: absolute;
+    left: 100px;
+    top: 25px;
+}
