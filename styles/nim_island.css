@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #FFA24D;
+    font-family: "IBM Plex Serif", Arial, Helvetica, sans-serif;
+    max-width: 660px;
+    margin: 0 auto;
+}
+.nm_ilnd {
+    padding-top: 50px;
+}
+.text {
+    text-align: center;
+    font-size: 18px;
+}
+.feedback a {
+    font-size: 18px;
+    padding-bottom: 30px; 
+    padding-left: 210px;
+}
+.feedback a button {
+    border: none;
+    background-color: #d86700;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.feedback a button:hover {
+    border: 1px solid black;
+}

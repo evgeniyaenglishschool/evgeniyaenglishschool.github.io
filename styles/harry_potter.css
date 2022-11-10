@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #FFA24D;
+    font-family: "IBM Plex Serif", Arial, Helvetica, sans-serif;
+    max-width: 660px;
+    margin: 0 auto;
+}
+.text {
+    font-size: 18px;
+    text-align: center;
+}
+.hr_ptr {
+    padding-top: 50px;
+}
+.send a {
+    font-size: 18px; 
+    padding-left: 210px;
+}
+.send a button {
+    border: none;
+    background-color: #d86700;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.send a button:hover {
+    border: 1px solid black;
+}
+.load a {
+    font-size: 18px;
+    padding-bottom: 30px; 
+    padding-left: 175px;
+}
+.load a button {
+    border: none;
+    background-color: #d86700;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.load a button:hover {
+    border: 1px solid black;
+}
+.buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

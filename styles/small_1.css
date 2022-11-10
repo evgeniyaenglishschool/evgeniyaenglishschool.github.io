@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #FFA24D;
+    font-family: "IBM Plex Serif", Arial, Helvetica, sans-serif;
+    max-width: 468px;
+    margin: 0 auto;
+}
+.pic1 {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 50px;
+}
+.kurs {
+    font-size: 22px;
+}
+.text {
+    font-size: 14px;
+}
+.price {
+    font-size: 20px;
+}
+.vid {
+    padding-left: 10px;
+    padding-right: 10px;
+}

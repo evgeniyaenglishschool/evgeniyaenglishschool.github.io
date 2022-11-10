@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #FFA24D;
+    font-family: "IBM Plex Serif", Arial, Helvetica, sans-serif;
+    max-width: 468px;
+    margin: 0 auto;
+}
+.videos {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.coco {
+    width: 400px;
+    padding-left: 20px;
+}
+.send {
+    margin-left: 70px;
+}
+.link {
+    margin-left: 10px;
+}

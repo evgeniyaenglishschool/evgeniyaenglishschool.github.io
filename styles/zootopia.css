@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #FFA24D;
+    font-family: "IBM Plex Serif", Arial, Helvetica, sans-serif;
+    max-width: 660px;
+    margin: 0 auto;
+}
+.article {
+    display: flex;
+    flex-direction: column;
+}
+.pic1 {
+    padding-top: 50px;
+}
+.kurs {
+    font-size: 30px;
+}
+.text {
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.price {
+    font-size: 22px;
+}
+.send {
+    display: flex;
+    align-self: center;
+    margin-top: 40px;
+    font-size: 22px;
+    padding-bottom: 20px;
+}
+.send button {
+    width: 330px;
+    border: none;
+    background-color: #d86700;
+    border-radius: 20px;
+    padding-bottom: 10px;
+}
+.send button:hover {
+    border: 1px solid black;
+}
+.arrow_back {
+    position: absolute;
+    left: 100px;
+    top: 15px;
+}

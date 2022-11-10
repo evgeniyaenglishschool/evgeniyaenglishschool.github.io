@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #FFA24D;
+    font-family: "IBM Plex Serif", Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+}
+.hidden {
+    display: none;
+}
+.evgeniya {
+    padding-left: 35%;
+}
+.instagram {
+    font-size: 16px;
+}
+.text {
+    text-align: center;
+    font-size: 16px;
+
+}
